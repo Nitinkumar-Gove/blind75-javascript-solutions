@@ -1,2 +1,5 @@
-# blind75-js-solutions
-Leetcode Blind 75 Javascript Solutions
+# Leetcode Blind 75 Javascript Solutions
+
+This repository contains javascript solutions to the blind 75 leetcode questions.
+
+[] Two Sum
