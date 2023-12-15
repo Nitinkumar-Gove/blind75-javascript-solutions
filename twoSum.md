@@ -1,3 +1,10 @@
+## Problem
+
+[Leetcode]{(https://leetcode.com/problems/two-sum/)
+
+## Solution
+
+```javascript
 /**
  * @param {number[]} nums
  * @param {number} target
@@ -16,3 +23,4 @@ let twoSum = function (nums, target) {
     }
   }
 };
+```
