@@ -1,6 +1,6 @@
 ## Problem
 
-[Leetcode]{(https://leetcode.com/problems/valid-parentheses/description/)
+[Leetcode](https://leetcode.com/problems/valid-parentheses/description/)
 
 ## Solution
 

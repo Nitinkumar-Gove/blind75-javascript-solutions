@@ -1,6 +1,6 @@
 ## Problem
 
-[Leetcode]{(https://leetcode.com/problems/two-sum/)
+[Leetcode](https://leetcode.com/problems/two-sum/)
 
 ## Solution
 
