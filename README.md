@@ -2,5 +2,5 @@
 
 This repository contains javascript solutions to the blind 75 leetcode questions.
 
-[x] Two Sum
-[x] Valid Parentheses
+1. Two Sum
+2. Valid Parentheses
