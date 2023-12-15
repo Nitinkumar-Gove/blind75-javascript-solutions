@@ -6,3 +6,4 @@ This repository contains javascript solutions to the blind 75 leetcode questions
 2. Valid Parentheses
 3. Best Time to Buy and Sell Stock
 4. Contains Duplicate
+5. Valid palindrome
