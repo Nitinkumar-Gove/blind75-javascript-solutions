@@ -11,3 +11,4 @@ This repository contains javascript solutions to the blind 75 leetcode questions
 7. Binary Search
 8. Linked List Cycle
 9. Longest Palindrome
+10. Middle of Linked List
