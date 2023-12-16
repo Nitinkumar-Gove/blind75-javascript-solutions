@@ -19,3 +19,4 @@ This repository contains javascript solutions to the blind 75 leetcode questions
 15. Roman to Integer
 16. Maximum Depth of Binary Tree
 17. Backspace String Compare
+18. Add Binary
