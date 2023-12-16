@@ -24,3 +24,4 @@ This repository contains javascript solutions to the blind 75 leetcode questions
 20. Ransom Note
 21. Majority Element
 22. Climbing Stairs
+23. Longest Common Prefix
