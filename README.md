@@ -22,3 +22,4 @@ This repository contains javascript solutions to the blind 75 leetcode questions
 18. Add Binary
 19. First Bad Version
 20. Ransom Note
+21. Majority Element
