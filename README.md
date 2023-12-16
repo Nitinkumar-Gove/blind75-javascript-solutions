@@ -20,3 +20,4 @@ This repository contains javascript solutions to the blind 75 leetcode questions
 16. Maximum Depth of Binary Tree
 17. Backspace String Compare
 18. Add Binary
+19. First Bad Version
