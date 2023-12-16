@@ -17,3 +17,5 @@ This repository contains javascript solutions to the blind 75 leetcode questions
 13. Palindrome Linked List
 14. Single Number
 15. Roman to Integer
+16. Maximum Depth of Binary Tree
+
