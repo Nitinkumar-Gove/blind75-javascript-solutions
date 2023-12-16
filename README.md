@@ -21,3 +21,4 @@ This repository contains javascript solutions to the blind 75 leetcode questions
 17. Backspace String Compare
 18. Add Binary
 19. First Bad Version
+20. Ransom Note
