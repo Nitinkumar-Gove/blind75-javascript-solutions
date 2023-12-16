@@ -14,3 +14,4 @@ This repository contains javascript solutions to the blind 75 leetcode questions
 10. Middle of Linked List
 11. Reverse Linked List
 12. No of 1 bits ( Hamming weight )
+13. Palindrome linked list
