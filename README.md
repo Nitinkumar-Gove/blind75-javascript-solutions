@@ -26,3 +26,4 @@ This repository contains javascript solutions to the blind 75 leetcode questions
 22. Climbing Stairs
 23. Longest Common Prefix
 24. Missing Number
+25. Palindrome Number
